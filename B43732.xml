@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lavv read June the 10, 1656, unto the people Israel, belonging to the returning from captivity, at the tent of Judah, or, A word to the risen world, where old Adam hath received his dying wound, infolded in the mystery of incarnation with the fiat unto the terra ...</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43732</idno><idno type="EEBO-CITATION">625106347</idno>
+  <idno type="VID">211317</idno>
+  <idno type="EEBO-PROQUEST">2240859546</idno>
+  
+            <idno type="OCLC"> 625106347</idno>
+            <idno type="OCLC">ocn 625106347</idno>
+            <idno type="STC">Wing P3993A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211317)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lavv read June the 10, 1656, unto the people Israel, belonging to the returning from captivity, at the tent of Judah, or, A word to the risen world, where old Adam hath received his dying wound, infolded in the mystery of incarnation with the fiat unto the terra ...</title>
+                  <author>Prynne, William, 1600-1669.</author>
+                  <author>Tany, Thomas, fl. 1649-1655.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>You may have my books at Mr. Richard Moons in Pauls-Church-yard, at the Seven Stars Stationer ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne by Wing (2nd ed.).</note>
+                  <note>Also attributed to Thomas Totney. Cf. Religion.wikia.com (viewed May 21, 2010).</note>
+                  <note>Date of publication from p. 10 of text.</note>
+                  <note>"The tent of Judah is to pitch in Frends-berry street near Rochester in Kent."</note>
+                  <note>Imperfect: tightly bound, stained, with print show-through, and loss of text; some text on p. 1 printed upside down.</note>
+                  <note>Notes in ms. throughout text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Redemption --  Christianity --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:211317:1"/>
+            <pb facs="tcp:211317:2"/>
+            <pb facs="tcp:211317:2"/>
+            <pb facs="tcp:211317:3"/>
+            <p>
+               <figure>
+                  <q xml:lang="lat">FIAT TERRA</q>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:211317:3"/>
+            <p>THE LAVV READ <add>For Restoration</add>
+               <hi>June the</hi> 10. 1656. unto the Peo<g ref="char:EOLhyphen"/>ple ISRAEL, belonging to the returning from Captivity, at the Tent of JUDAH, <add>by VVilliAm PHinch</add>
+            </p>
+            <p>
+               <hi>OR,</hi> A Word to the risen World, where old <hi>Adam</hi> hath received his dying wound, infolded in the mystery of Incarnation. With the <hi>Fiat</hi> unto the <hi>Terra.</hi>
+               <add>let the Earth Bee (new Made)</add>
+            </p>
+            <p>I Write no Epistle, for
+<q>
+                  <l>In light no Epistles be,</l>
+                  <l>If in light, then only he;</l>
+                  <l>The end, beginning, but no name,</l>
+                  <l>The eternall one that living slain.</l>
+                  <bibl>Tanjah in Judah.</bibl>
+               </q>
+            </p>
+            <p>The Tent of <hi>Judah</hi> is to Pitch in <hi>Frends-berry</hi> street near <hi>Rochester</hi> in <hi>Kent.</hi>
+               <add>neer the blak Lion</add>
+            </p>
+            <p>You may have my Books at Mr. <hi>Richard Moons</hi> in <hi>Pauls</hi>-Church-yard, at the seven Stars Stationer, and there you may send, and also receive Answer from us.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:211317:4"/>
+            <pb n="1" facs="tcp:211317:4"/>
+            <div type="part">
+               <head>THE FIRST Senten<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or SOUND from the FIRST of the seven Angels.</head>
+               <p>BABILON IS FALLEN, IS UNRECOVER<g ref="char:EOLhyphen"/>ABLE, and SHAL BE NO MORE. For her JUDGE is JEIEL, the MIGHTY, HOLY ONE (of Israel) and his ANGELS are many. And are all rea<g ref="char:EOLhyphen"/>dy to EXECUTE his VENGEANCE upon HER Adherents,<note place="margin">Judah in Israel, <hi>3d.</hi> dayes silence, <hi>(May 23)</hi> our Hebru new acc. <hi>13d.</hi> mineth fourth day</note>
+                  <hi>THAƲ</hi> ALL PRAISE AND GLORY UNTO THEE WHO ONELY ART ETERNITIE.</p>
+               <p>ALL PRAISE unto JEIEL FOR EVERMORE Hallelujah AND THE SECOND ANGEL SAID COBAN THE WOORD day forth</p>
+               <p>The fift day, the second Angel said,</p>
+               <p>PRAISE unto OUR JEIEL for EVERMORE HALLELUJAH.</p>
+               <p>And this fift Angel is the SUN tyed in the Essence of the first:</p>
+               <p>For the first ANGEL is KOALL named SATURN which is the whole HOULDMENT of GOD, and the fifth day is SOL the SUN, leading the Assent of the four Sphears into the EARTH, for to give notice to the Ri<g ref="char:EOLhyphen"/>sen People in the Suns light.</p>
+               <pb n="2" facs="tcp:211317:5"/>
+               <p>THAT THE SENTENCE in the HEAVENS IS PASSED for to be Executed in the Earth, which is IAHS WRATH in violence, poured upon the Nations.</p>
+               <p>Is unto the REDEEMED ONES PRAISE and joy which to be expressed is thus:</p>
+               <p>WE JOY FOR TO SEE OUR SOULS IN OUR BODIE NOW set FREE, for the REFINED SOUL sounding forth her RECEIVED TRUTH was and is in BABILON; that is, this land ENGLAND alwayes PERSECUTED with bodily penalties: but it is the Lord in FLESH against whom the Sin is committed.</p>
+               <p>For the Lord hath Clouded Himself in a Vail of earth for to deliver his people, but the people are built by Faith in Obedience unto this day of our Jah; for what (and who) soever that is not SEALED, and hath (not) the Mark THAU (truth) in their Souls placed, the judg<g ref="char:EOLhyphen"/>ment, Comming is to sweep from the EARTH, into the eternall wrath of the Almighty; which as <hi>JOHN</hi> saith, into the Lake that burneth with Fire and Brimstone for evermore and this sitation is for yee GENTILES, who do acknowledge the Scriptures to be TRUE, and (but) do labor in your LIVES to DESTROY all the Com<g ref="char:EOLhyphen"/>mands therein commanded.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:211317:5"/>
+               <head>
+                  <hi>ALPHA AM,</hi> Now unto yee JEWS in nature doth the third Angel SOUND.</head>
+               <p>PREPARE yee, for the <hi>Wars</hi> with (Gog) Goog is to begin, and such times of <hi>trouble</hi> as <hi>never</hi> yet <hi>was</hi> on the <hi>Earth.</hi>
+               </p>
+               <p>For the <hi>Nations cut off, is</hi> the <hi>Jews returning unto the promised land,</hi> for in such a time of trouble as never <hi>was on the earth, will</hi> our high and holy <hi>Jah</hi> build <hi>Israel.</hi>
+               </p>
+               <p>Wars, wars, wars, wars, wars, wars, wars, <hi>(seven times) Woe, lamentations and mourning unto every created thing,</hi> for the <hi>waters</hi> will be in drawn, and the <hi>Earth barren,</hi> and lands lie waste without <hi>inhabitance.</hi>
+               </p>
+               <p>Thus will <hi>Jah do unto the earth.</hi>
+               </p>
+               <p>But feare not <hi>yee my people,</hi> that <hi>keep</hi> (my) the <hi>Cove<g ref="char:EOLhyphen"/>nant;</hi> ye shall walk shaddowed with a <hi>cool cloud,</hi> when the <hi>earth</hi> is all on <hi>fire</hi> with <hi>scortching burnings.</hi>
+               </p>
+               <p>THAU.</p>
+               <p>
+                  <hi>Inspiritivat aluat,</hi> reforming unto the <hi>true risen man.</hi> The <hi>first</hi> part of <hi>man</hi> is <hi>depraved</hi> of its <hi>enjoyment,</hi> be<g ref="char:EOLhyphen"/>cause it is run into the sensitive <hi>source:</hi> so that <hi>nature</hi> is wholy lost or depraved.</p>
+               <p>
+                  <hi>The way of going forth must be Gained by returning just back, where we went forth,</hi> which is thus▪</p>
+               <p>We fell from <hi>Herbs v<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gitative,</hi> but without <hi>sense,</hi> and sense is it that makes us sufferers.</p>
+               <pb n="4" facs="tcp:211317:6"/>
+               <p>So that <hi>Hearbs</hi> and <hi>Fruits</hi> unclouded in <hi>sensibilitie, is living restored man wisdome.</hi>
+               </p>
+               <p>For though the herbs of the field be the <hi>life feeder</hi> of all things.</p>
+               <p>Yet in themselves are <hi>pure sights</hi> of <hi>JAH ELOHIM.</hi>
+               </p>
+               <p>But when we take the <hi>sense,</hi> that this herb hath fed, we take the <hi>miserable hurt,</hi> but not the <hi>cure;</hi> for the cure is <hi>vailed</hi> under sense.</p>
+               <p>And so <hi>lust issued into the World</hi> MAN: So my <hi>People cease</hi> unto all in which is the <hi>life of sense.</hi>
+               </p>
+               <p>This is <hi>Israels safety.</hi>
+               </p>
+               <p>
+                  <hi>The abstract—</hi>ye shall eat nothing that is <hi>sensible, of hurt, or fear,</hi> or a sensible <hi>life—.</hi> And in this, obeying is your Corporality <hi>healing.</hi>
+               </p>
+               <p>This is the law of returning unto <hi>healing</hi> and <hi>resto<g ref="char:EOLhyphen"/>ring: For we shall all be tried by Fire, and then my com<g ref="char:EOLhyphen"/>mand will Answer.) Ye shall all drink water.</hi>
+               </p>
+               <p>But them bodies that are not able and <hi>(f<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>) Jah shall be judge,</hi> which by Urim and Thummim shall be <hi>tried.</hi>
+               </p>
+               <p>For this <hi>drink</hi> is the <hi>Whoredome</hi> of the <hi>Heathen,</hi> which doth binde the senses, and doth captivate the <hi>mind,</hi> and <hi>is one of the greatest enemies unto mans restoration,</hi> and <hi>absolute</hi> the hinderer of <hi>healing.</hi>
+               </p>
+               <p>For weaker bodies mix a little <hi>Wine</hi> with <hi>Water,</hi> but <hi>that</hi> is polluted, but not in its <hi>Original.</hi>
+               </p>
+               <p>THAU.</p>
+               <p>If wise men in their sensible wisdome do judge this <hi>law</hi> to be weak and under written.</p>
+               <p>I In my wisdome do bid them comprehend this <hi>en<g ref="char:EOLhyphen"/>suing,</hi> for all is but one wisdom in her own <hi>outgoing.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:211317:6"/>
+               <head>
+                  <hi>The fourth day—The Inlet into the Secret.</hi> THE WAY OF JAH IS IN THE ETERNAL HI<g ref="char:EOLhyphen"/>DINGS, where Sun, Moon and Stars cometh not.</head>
+               <p>HE hath clouded the heavens, and made them the FRONT before his face, that thereby the HI<g ref="char:EOLhyphen"/>RARCHY of STARS ly HID: He hath SEALED the great SEA by the face of the SUN, and neither of these doth touch him.</p>
+               <p>The fire that doth give these both one being, are but <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>louds of hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might.</p>
+               <p>For to search by wisedome, for to fathom his wayes, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re wholy disadvantageous.</p>
+               <p>For his wayes are UNFATHOMABLE (to us) and HIMSELF is no COMPREHENDING; for the reason <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f man is but created, and doth lie TIED in the clouds <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f his maker.</p>
+               <p>My reason is darknesse unto the created.</p>
+               <p>For perfect light hath no vaile, though it SOUND in <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>esh.</p>
+               <p>For our JAH doth cause a risen WORLD for to in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abit in crucified earth.</p>
+               <p>For the way of JAH is uncomprehensible, and the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of clouds cannot view IT.</p>
+               <pb n="6" facs="tcp:211317:7"/>
+               <p>I draw unto mee the <hi>Risen Sons</hi> of wisdom.</p>
+               <p>For clouds cannot touch the Pavilion of <hi>God.</hi>
+               </p>
+               <p>
+                  <hi>The scorner</hi> is made for his <hi>day,</hi> because he is the hea<g ref="char:EOLhyphen"/>vens out-cast: for to be whipped by folly till light hath made him acceptable.</p>
+               <p>The way of the <hi>Sun</hi> he knoweth not, because that folly hath him <hi>Infoulded:</hi> He came from the womb as one unto death, for he is held in fetters of darknesse, till the sun shine and <hi>Sion rise</hi> his fetters for to dissolve.</p>
+               <p>Therefore is not the <hi>way</hi> of man laid in himself;</p>
+               <p>But every man is laid unto his way:</p>
+               <p>For the way brings forth man unto every work under the <hi>Sun;</hi> so man in progression doth but answer the heavens face, unto which himself is tied.</p>
+               <p>One thing is wondrous in the <hi>Earth.</hi>
+               </p>
+               <p>All to be one perfect work, and in which man doth <hi>judge</hi> so much confusion.</p>
+               <p>
+                  <hi>Jah</hi> is one <hi>Essence</hi> and <hi>Spirit</hi> seemingly divided, but it is the <hi>whole all one uncommixed.</hi>
+               </p>
+               <p>Thus—the Sulfer of fire is the life of fire:</p>
+               <p>So that it is but the Sulfer distributed distributively:</p>
+               <p>For every lower depends upon a higher:</p>
+               <p>And so it is a thing fed and continued unto the time, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ence doth exhaule her out-going.</p>
+               <p>Thus the fire in the water is the life of the <hi>Sun,</hi> an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the sun is both; the water and its life.</p>
+               <p>This is the MAGI on this doth all appearings depend <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> depend is man corporal, both upon the water an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Sun, as the Water producing Earth, the Earth Herb<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the Winde, Water, Earth Fire, these <hi>Clouded</hi> make <hi>Bod<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ments.</hi>
+               </p>
+               <pb n="7" facs="tcp:211317:7"/>
+               <p>These bodiments are the Earths <hi>Curse.</hi>
+               </p>
+               <p>For they <hi>devoure</hi> and <hi>teare</hi> the Earth, and Fire and Water into all particles by their <hi>Jawings,</hi> or <hi>Teeth tear<g ref="char:EOLhyphen"/>ings.</hi>
+               </p>
+               <p>Now the Herbs was pure Seeds of <hi>Angels</hi> untill the pollution before the flood.</p>
+               <p>Then came In the evill <hi>crude</hi> upon the <hi>invisible</hi> sight of the <hi>Soule</hi> of man, and there doth <hi>abide,</hi> till <hi>time</hi> into which this crude was tied <hi>shall be no more.</hi>
+               </p>
+               <p>For every Created doth lie <hi>tied</hi> unto <hi>time</hi> its mother, and forth-bringer—Now that which doth loose this <hi>times</hi> knot deaths cordes.</p>
+               <p>Tis the <hi>En<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e exhalling</hi> its <hi>Sent,</hi> to come and take <hi>Eter<g ref="char:EOLhyphen"/>nity</hi> its center.</p>
+               <p>And so doth JAH Accumilate (gather up) <hi>all</hi> into one.</p>
+               <p>Which is unity being <hi>in wound—</hi>Varieties all in <hi>con<g ref="char:EOLhyphen"/>found.</hi>
+               </p>
+               <p>And yet no confoundings <hi>be—</hi>But all <hi>inheld</hi> in <hi>unity.</hi>
+               </p>
+               <p>
+                  <hi>Ʋnity</hi> gave time (its) being—And unity is <hi>times</hi> re<g ref="char:EOLhyphen"/>deeming.</p>
+               <p>
+                  <hi>Ʋnto</hi> her Station from whence she came—Because in her is <hi>sined</hi> JEHOVAHS name-</p>
+               <p>CREATION.</p>
+               <p>Wrote in the leading of JUDAH Tents.</p>
+               <p>THAU JUDAH in ISRAHEL.</p>
+               <pb n="8" facs="tcp:211317:8"/>
+               <p> Who in the earth that hath faith, that <hi>JAH</hi> will make good his promise unto <hi>ISRAHEL</hi> and return their captivity, let them bring gifts for to assist the work of our <hi>JAH</hi> in <hi>JUDAHS</hi> hand from <hi>RUBEN.</hi>
+               </p>
+               <p>OF bread; Bread with yist doth hinder our <hi>Rising into stedfastnesse,</hi> for the yist is the drinks <hi>life</hi> con<g ref="char:EOLhyphen"/>teining the <hi>strength</hi> of it, its out going in it selfe, for the yist doth give the beer life, and the yist lives and the beer dies—So <hi>that</hi> in our <hi>pure bread</hi> the life <hi>bewitch in sence</hi> doth abide, and so confusion doth <hi>issue in us</hi> unto all out turning THAU.</p>
+               <p>
+                  <hi>Now showes</hi> (shaddows) and <hi>all</hi> signes are <hi>done,</hi> now BABEL cometh to <hi>Distruction.</hi>
+               </p>
+               <p>
+                  <hi>Thau</hi> to <hi>Vaw,</hi>
+               </p>
+               <p>Recorder, write this record in your own hand (wri<g ref="char:EOLhyphen"/>ting) Sententially, that in your reading you in your voice may give the just phraise to the litteral people you declare this record (unto)</p>
+               <p>
+                  <hi>let none view it</hi>
+               </p>
+               <p>THAU.</p>
+               <pb n="9" facs="tcp:211317:8"/>
+               <p>The opening in the HIGHT SIGHT unto RESTO<g ref="char:EOLhyphen"/>RATION.</p>
+               <p>MILKE IS THE HIGHEST BLESSING THE BEAST can AFFORD.</p>
+               <p>For though the Beast be sensible both of <hi>hurt</hi> and <hi>fear</hi> yet the Milk is DISOLVEABLE.</p>
+               <p>Because the life doth not depend upon the MILKE, but the Milke upon the <hi>life.</hi>
+               </p>
+               <p>So that man having gotten an Assendant over his <hi>lust,</hi> doth <hi>clear</hi> the crudiness or <hi>grossinesse</hi> of the <hi>milk.</hi>
+               </p>
+               <p>And because that <hi>man</hi> is <hi>fallen, man cannot</hi> be <hi>resto<g ref="char:EOLhyphen"/>red,</hi> but by degrees: And <hi>Cheese</hi> is the knitter and binder in our inherent properties, in our corporall man.</p>
+               <p>But the people having gained <hi>strength,</hi> in <hi>obedience</hi> unto the <hi>holy Law,</hi> Cheese will be altred.</p>
+               <p>The <hi>Law</hi> doth prove its self to be holy unto all Na<g ref="char:EOLhyphen"/>tions.</p>
+               <p>Thus <hi>for</hi> it is the <hi>Life fulfilling</hi> of all <hi>Moses</hi> Comman<g ref="char:EOLhyphen"/>dements, as, THOU SHALT NOT KILL.</p>
+               <p>Desire in SENCE being <hi>gone, peace is planted:</hi> Then there is neither <hi>killing</hi> nor <hi>coveting,</hi> but <hi>Jah raigning in his just made man.</hi>
+               </p>
+               <p>THAU <hi>his</hi> 9d. <hi>retired.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A <hi>Law</hi> for <hi>Silence.</hi>
+               </head>
+               <p>LET every Mouth keep its <hi>VOICE</hi> unbreathed forth in words.</p>
+               <p>So shall the <hi>Spirit of life arise and overcome the combu<g ref="char:EOLhyphen"/>stable Spirit.</hi>
+               </p>
+               <pb n="10" facs="tcp:211317:9"/>
+               <p>For words do loose the growth in GOD, and silence is the strength turning all wholy into God.</p>
+               <p>For <hi>Silence is quiet,</hi> and <hi>Words</hi> are all <hi>Vanity.</hi>
+               </p>
+               <p>For the <hi>Time</hi> of <hi>Words</hi> is <hi>ceased,</hi> and the <hi>Works</hi> will shew themselves: The <hi>words did sound from, bee still an yee shall see God,</hi>
+               </p>
+               <p>THAU. His last day (<hi>of his</hi> 14.) in retirement, (<hi>being the</hi> 3d. <hi>of June and</hi> 24. <hi>of our hebrew mineth</hi>)</p>
+               <p>
+                  <hi>Let necessity cause, yea and nay; so shall yee be strong in LOVE.</hi>
+               </p>
+               <p>CURSED shall <hi>he</hi> or <hi>she</hi> be in Israel, that doth not help the weak of their <hi>Brethren,</hi> and let my whole house the Lords chosen, say, Amen. <hi>Thau</hi> May 31. 1656.</p>
+               <p>The <hi>Tents</hi> have <hi>Signed</hi> the <hi>day Deliverance,</hi> unto the <hi>prisoners</hi> of <hi>Hope;</hi> and that work is finished: Every one unto his possessed habitation; and in <hi>obedience abide, till I from the Lord shall know further:</hi> Onely <hi>Foanes</hi> and <hi>Rauson</hi> they go to house.</p>
+               <p>For <hi>TENTS</hi> do not yet take ground: onely <hi>Judah stands waiting what to do.</hi>
+               </p>
+               <p>
+                  <hi>THAƲ</hi>
+               </p>
+               <p>The <hi>TENTS</hi> in their <hi>Houldements,</hi> is, (or are) Eleven.</p>
+               <p>Tanjah in Judah.</p>
+               <p>
+                  <hi>June</hi> the 16. 1656.</p>
+               <p>The Tent declares by her Books what God is comming for to do.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
